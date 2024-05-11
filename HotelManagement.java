@@ -134,6 +134,7 @@ class HotelManagement
 				  v2.qty9=sc.nextInt();
 					break;
 				case 10:
+				    bill();
 					return ;
 			}
 			 }
